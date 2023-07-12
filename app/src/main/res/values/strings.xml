@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic-tac-toe</string>
+    <string name="action_settings">Settings</string>
+    <string name="strNumInRow">Number of symbols:</string>
+    <string name="strNumInRowEnter"> </string>
+    <string name="strLenghtOfSide">Field length of side:</string>
+    <string name="strLenghtOfSideEnter"> </string>
+    <string name="btnPlay">Play!</string>
+    <string name="btnAgain">Again</string>
+    <string name="btnExit">Quit</string>
+    <string name="strAnnouncement"> </string>
+    <string name="strEndQuestion">Do you want to play again?</string>
+</resources>
