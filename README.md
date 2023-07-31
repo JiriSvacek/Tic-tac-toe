@@ -1,6 +1,6 @@
 # Tic-tac-toe
 ## Description
-Classic Tic-tac-toe app on Android from version 28. Implemented feature to adjust size of field and also customizable number of symbol in row for winning condition.
+Classic Tic-tac-toe app on Android from version 28. Implemented feature to adjust size of field and also customizable number of symbol in row for win.
 
 <img src="pic/start.png" alt="Start up menu" width="300" height="600px"/>
 
